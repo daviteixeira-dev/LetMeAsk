@@ -37,6 +37,11 @@ export function Home() {
            return;
        }
 
+       if(roomRef.val().endedAt){
+           alert('Room does not exists.');
+           return;
+       }
+
        history.push(`/rooms/${roomCode}`);
     }
 
