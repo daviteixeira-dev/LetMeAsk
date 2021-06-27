@@ -1,5 +1,5 @@
 <h1 align="center">
-  LetMeAsk
+	<img src="/public/img/logo.svg" align="center" alt="Logo da Aplicação">
 </h1>
 
 <p align="center">
@@ -24,7 +24,7 @@
   <a href="#-license">License</a>
 </p>
 
-<img src="/src/assets/images/IntroducaoAngular8.png" min-width="400px" max-width="400px" width="100%" align="center" alt="Introdução Angular 8">
+<img src="/public/img/home.png" min-width="400px" max-width="400px" width="100%" align="center" alt="Home da Aplicação">
 
 ## 👨🏻‍💻 Sobre o projeto
 <p>
